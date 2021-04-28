@@ -1,0 +1,41 @@
+.card-body{
+    text-align: center;
+}
+h4{
+    margin-top: 10px;
+}
+.section{
+    margin-top: 30px;
+}
+.card-body2{
+  height: 480px;
+  width: 400px;
+  padding: 31px;
+  margin-top: 20px;
+  /* border: 1px solid rgb(190, 181, 181);
+  */
+   
+}
+.card-2{
+ 
+  overflow: scroll ;
+}
+.example-tree-invisible {
+    display: none;
+  }
+  
+  .example-tree ul,
+  .example-tree li {
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+  }
+  .section3{
+    margin-left: 91px;
+    margin-top: 19px;
+    height: 380px;
+    padding: 31px;
+    width: 580px;
+    border: 1px solid rgb(190, 181, 181);
+  }
+  
